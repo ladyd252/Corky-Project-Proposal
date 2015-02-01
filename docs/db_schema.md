@@ -28,12 +28,3 @@
 | picture_url | string    |                       |
 | event_id    | integer   | not null              |
 | body        | string    |                       |
-
-
-##Messages
-
-| Column Name | Data Type | details               |
-|-------------|-----------|-----------------------|
-| id          | integer   | not null, primary key |
-| body        | string    |                       |
-| event_id    | integer   | not null              |

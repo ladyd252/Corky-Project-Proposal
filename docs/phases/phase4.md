@@ -11,10 +11,14 @@
 
 ## Backbone
 ### Models
+* post
 
 ### Collections
+* posts
 
 ### Views
+* post index item
+* post index
 
 ## Gems/Libraries
 * twilio-ruby
