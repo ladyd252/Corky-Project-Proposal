@@ -4,12 +4,12 @@ Heroku link coming soon!
 
 ## Minimum Viable Product
 Corky is a picture sharing app for large events. It allows attendees to text pictures and/or messages to be displayed in a  real time updated slideshow. Users can:
-- [] Register for an account
-- [] Log in/out (sessions)
-- [] Create events
-- [] Navigate to their event page during an event and display on a screen viewable by guests.
-- [] The event page will display a number for guests to send SMS and MMS.
-- [] The event page will live update the slideshow on the screen as pictures and messages are received, sharing pictures and messages with all guests.
+- [ ] Register for an account
+- [ ] Log in/out (sessions)
+- [ ] Create events
+- [ ] Navigate to their event page during an event and display on a screen viewable by guests.
+- [ ] The event page will display a number for guests to send SMS and MMS.
+- [ ] The event page will live update the slideshow on the screen as pictures and messages are received, sharing pictures and messages with all guests.
 
 
 ## Design Docs
