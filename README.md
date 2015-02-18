@@ -1,6 +1,7 @@
 # Corky
 
-Heroku link coming soon!
+[View on Heroku] [heroku-link]
+[heroku-link]: http://corkyapp.herokuapp.com
 
 ## Minimum Viable Product
 Corky is a picture sharing app for large events. It allows attendees to text pictures and/or messages to be displayed in a  real time updated slideshow. Users can:
